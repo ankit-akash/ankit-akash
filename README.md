@@ -13,6 +13,6 @@
 <a href="https://instagram.com/ankitakash_.py_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitakash_.py_" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-akash&show_icons=true&locale=en" alt="ankit-akash" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ankit-akash&show_icons=true&locale=en" alt="ankit-akash" /></p>
 
 
