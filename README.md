@@ -1,9 +1,12 @@
 ![waving-hand_1f44b](https://user-images.githubusercontent.com/75488501/196498399-ff654985-adb8-40f2-8d11-b97ddbff9eea.gif)
 
 
-- Hi, I’m @ankit-akash
-- I’m a student persuing B.Tech in Computer Science. 
-- I am interested in Designing, web development.
+- Hi, I’m @ankit-akash.
+- I am a student of MVJ college of Engineering persuing B.E in computer science and engineering.
+- I am passionate in designing and Art and good at HTML,CSS, JavaScript.
+- I am currently in software development club as a content writer and a designer.
+- I use Figma,canva,express,blender etc.
+- Currently I am learning web development, ReactJS and Unity.
  
 
 
