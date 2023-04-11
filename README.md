@@ -5,9 +5,10 @@
 - Student of MVJ college of Engineering persuing B.E in computer science and engineering.
 - Passionate in designing and Art and good at HTML,CSS, JavaScript.
 - Currently in software development club as a content writer and a designer.
-- Currently I am learning web development, ReactJS and Unity.
-- Familier with C++,Python,Mysql,UI&UX.
- - Tools: Figma,canva,express,blender etc.
+- Tools: Figma,canva,express,blender etc.
+- Currently I am learning web development, ReactJS and Unity.
+- Familier with c++,python,mysql,UI&UX.
+ 
 
 
 
@@ -18,9 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ankitakash07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ankit-akash/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/ankitakash_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ankit-akash/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankitakash07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/ankitakash_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 <p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=ankit-akash&show_icons=true&locale=en" alt="ankit-akash" /></p>
