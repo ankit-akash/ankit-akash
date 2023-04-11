@@ -22,4 +22,5 @@
 <a href="https://instagram.com/ankitakash_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ankit-akash/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 <p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=ankit-akash&show_icons=true&locale=en" alt="ankit-akash" /></p>
