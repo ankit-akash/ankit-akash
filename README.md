@@ -1,9 +1,6 @@
-![waving-hand_1f44b](https://user-images.githubusercontent.com/75488501/196498399-ff654985-adb8-40f2-8d11-b97ddbff9eea.gif)
-
-
-- Hi, I’m @ankit-akash.
-- Student of MVJ college of Engineering persuing B.E in computer science and engineering.
-- Passionate in designing and Art and good at HTML,CSS, JavaScript.
+- Hi, I’m ***Ankit Akash***.
+- Student of ***MVJ college of Engineering*** persuing B.E in Computer Science and Engineering.
+- Passionate in designing and Art and Frontend.
 - Currently in software development club as a content writer and a designer.
 - Currently I am learning web development, ReactJS and Unity.
 - Familier with c++,python,mysql,UI&UX.
