@@ -2,9 +2,9 @@
 - Student of ***MVJ college of Engineering*** persuing B.E in Computer Science and Engineering.
 - Passionate in designing and Art and Frontend.
 - Currently in software development club as a content writer and a designer.
-- Currently I am learning web development, ReactJS and Unity.
+- Currently learning web development, ReactJS and Unity.
 - Familier with c++,python,mysql,UI&UX.
- - Tools: Figma,canva,express,blender etc.
+ - Designing Tools: Figma,canva,express,blender etc.
 
 
 
