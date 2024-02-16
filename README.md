@@ -3,7 +3,7 @@
 - Passionate in designing and Art and Frontend.
 - Currently in software development club as a content writer and a designer.
 - Currently learning web development, ReactJS and Unity.
-- Familier with c++,python,Xampp,UI&UX.
+- Familier with c++,python,php,UI&UX.
  - Designing Tools: Figma,canva,express,blender etc.
 
 
