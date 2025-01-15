@@ -1,10 +1,6 @@
 - Hi, I’m ***Ankit Akash***.
-- Student of ***MVJ college of Engineering*** persuing B.E in Computer Science and Engineering.
-- Passionate in designing and Art and Frontend.
-- Currently in software development club as a content writer and a designer.
-- Currently learning web development, ReactJS and Unity.
-- Familier with c++,python,php,UI&UX.
- - Designing Tools: Figma,canva,express,blender etc.
+- PAT @Cognizant
+- Java, c++, python, Spring, SpringBoot
 
 
 
