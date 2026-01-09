@@ -1,5 +1,4 @@
-- Hi, I’m ***Ankit Akash***.
-- PAT @Cognizant
+- PA @Cognizant
 - Java, c++, python, Spring, SpringBoot
 
 
